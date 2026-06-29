@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Super Mario logo" width="110">
+  <img src="src/image/mariov.png" alt="Super Mario logo" width="110">
 </p>
 
 <h1 align="center">Super Mario — Multithreaded Game</h1>
@@ -10,9 +10,7 @@
   multithreading, concurrency and critical-section handling.
 </p>
 
-<p align="center">
-  <img src="screenshots/gameplay.png" alt="Gameplay" width="600">
-</p>
+
 
 ## Overview
 
@@ -58,7 +56,7 @@ This is the core of the project.
   increments a shared counter; reaching 9 triggers the win condition.
 
 <p align="center">
-  <img src="screenshots/two-enemies.png" alt="Two enemy threads meeting" width="520">
+  <img src="src/image/champRunLeft.png" alt="Two enemy threads meeting" width="520">
 </p>
 <p align="center"><em>Two enemy threads meeting — the critical section the game has to resolve.</em></p>
 
@@ -87,7 +85,7 @@ This is the core of the project.
 
 | Pause | Game Over | Winner |
 | :---: | :---: | :---: |
-| <img src="screenshots/pause.png" width="250"> | <img src="screenshots/game-over.png" width="250"> | <img src="screenshots/winner.png" width="250"> |
+
 
 ## Getting Started
 
