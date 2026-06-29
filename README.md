@@ -56,7 +56,7 @@ This is the core of the project.
   increments a shared counter; reaching 9 triggers the win condition.
 
 <p align="center">
-  <img src="src/image/champRunLeft.png" alt="Two enemy threads meeting" width="520">
+  <img src="src/image/champRunLeft.png" alt="Two enemy threads meeting" width="110">
 </p>
 <p align="center"><em>Two enemy threads meeting — the critical section the game has to resolve.</em></p>
 
